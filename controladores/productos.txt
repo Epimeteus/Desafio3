@@ -1,0 +1,20 @@
+[
+    {
+        "id": 12,
+        "title": "Iphone",
+        "price": 4444,
+        "thumbnail": "Iphone.png"
+    },
+    {
+        "id": 23,
+        "title": "LCD",
+        "price": 6200,
+        "thumbnail": "LCD.png"
+    },
+    {
+        "id": 34,
+        "title": "Heladera",
+        "price": 6054,
+        "thumbnail": "Heladera.png"
+    }
+]
